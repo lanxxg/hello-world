@@ -1,3 +1,3 @@
 # hello-world
 大家好
-学习git
+在学习git中
